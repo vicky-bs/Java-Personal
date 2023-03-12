@@ -12,3 +12,4 @@ Check this space
 ## Local Development Environment
 
 1. Open index.html in your code directory
+2. Just checking if this works
