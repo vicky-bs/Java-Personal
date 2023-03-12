@@ -7,3 +7,8 @@ This is a test folder
 ## This is a sub header file
 
 Check this space
+
+
+## Local Development Environment
+
+1. Open index.html in your code directory
